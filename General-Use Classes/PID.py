@@ -130,7 +130,7 @@ class PID(object):
 
 
 
-#################### Comment out below this to get rid of non-pyboard library usage#####################
+#################### Comment out below this to get rid of non-pyboard library usage #####################
 
 # # Example use
 # if __name__ == '__main__':
